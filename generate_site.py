@@ -8,10 +8,9 @@ Session = sessionmaker(bind=engine)
 
 
 def markdown_sanitize(text):
-    markdownspecials = "\\`*_\{\}[]()#+-.!"
+    markdownspecials = "\\`*_{}[]()#+-.!"
 
     sanitized = ""
-    i = 0
     for c in text:
         if c in markdownspecials:
             sanitized += "\\"
