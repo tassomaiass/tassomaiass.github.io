@@ -10,6 +10,4 @@ This is a work in progress and questions and their answers are continually
 being recorded. The website (which is availible at tassomaiass.github.io)
 is being updated every time I run the script to convert the DB to Markdown
 
-The website is being updated whenever I run the script to generate this
-
 Tassomai? Tasso mai fucking ass
