@@ -9,3 +9,9 @@ relative_links:
   collections: true
 include:
   - index.md
+exclude:
+  - base.md
+  - README.md
+  - generate_site.py
+  - models.py
+  - tassomaiass.db
