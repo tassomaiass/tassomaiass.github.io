@@ -9,6 +9,7 @@ relative_links:
   collections: true
 include:
   - index.md
+  - answers.md
 exclude:
   - base.md
   - README.md
