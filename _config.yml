@@ -1,7 +1,12 @@
+title: TassoMaiAss
+baseurl: ""
+markdown: kramdown
+
 plugins:
   - jekyll-relative-links
-  relative_links:
-    enabled: true
-    collections: true
-  include:
-    - index.md
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+  - README.md
