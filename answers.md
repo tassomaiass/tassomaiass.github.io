@@ -1,5 +1,7 @@
 # TassoMaiAss
 
+If it shows multiple answers, then both of them work, unless one is a \[BOTH of these\],
+in which it is almost most definitely one of the other options.
 [Homepage](index)
 
 ## Questions and their answers
@@ -620,6 +622,7 @@
 #### DOT & CROSS diagrams are used to represent IONIC compounds\. Which of the following statements is TRUE?
 * They DON'T show the INTERACTION of ions
 * They DON'T show the nature of MOVEMENT of ions
+* They DON'T show how the ions are ARRANGED in SPACE
 
 #### IONIC compounds typically have \-\-\-\(1\)\-\-\- bonds between OPPOSITELY CHARGED IONS and \-\-\-\(2\)\-\-\- bonds throughout their GIANT STRUCTURE\.
 * 1: strong; 2: strong
@@ -693,6 +696,7 @@
 
 #### According to the REACTIVITY SERIES, which of these is MOST REACTIVE?
 * Calcium
+* Potassium
 
 #### BALL and STICK models are used to represent IONIC compounds\. Which of the following statements are TRUE?
 * They DON'T show the nature of MOVEMENT of ions
@@ -990,6 +994,7 @@
 
 #### What FORCE acts on a car travelling at a STEADY SPEED?
 * Friction
+* Reaction force
 
 #### When driving in normal conditions, an event ahead in the road requires you to STOP SUDDENLY\. Which of these accurately describes the distance travelled BEFORE you touch the brake?
 * Distance travelled during 'THINKING TIME' is DIRECTLY proportional to your reaction time & speed
@@ -1125,4 +1130,364 @@
 
 #### If you need to complete a journey of a SET DISTANCE, then DECREASING YOUR SPEED will \-\-\-\(1\)\-\-\- the \-\-\-\(2\)\-\-\- to complete the journey\.
 * 1: increase; 2: time taken
+
+#### A material which keeps the SAME VOLUME but CHANGES SHAPE is a…
+* liquid
+
+#### 2D or 3D models can be used to represent IONIC compounds\. Which of the following statements are TRUE?
+* \[ALL of these\]
+
+#### CARBON DIOXIDE gas makes up approximately 0\.04% of the ATMOSPHERE\. It has the formula…
+* CO₂
+
+#### \[TRUE or FALSE?\] Ionic bonds form between metals and non\-metals\.
+* \[TRUE\]: Metals form POSITIVE ions and non\-metals form NEGATIVE ions as electrons are TRANSFERRED\.
+
+#### Typical properties of TRANSITION METALS include…
+* \[BOTH of these\]
+
+#### How has ARTIFICIAL SELECTION resulted in increased food production through the use of modern technology?
+* \[ALL of these\]
+
+#### How many alleles of the same gene do most animal individuals have?
+* 2
+
+#### If the DOMINANT allele, "T", codes for a GENETIC DISEASE, an organism with the GENOTYPE "TT" would…
+* HAVE the disease and pass on the disease allele to 100% of their offspring
+
+#### The offspring of parents with the genotypes HH and Hh would have which of these GENOTYPES in what percentages?
+* 50% HH and 50% Hh
+
+#### Variation within a species occurs through…
+* \[BOTH of these\]
+
+#### DNA is made up of two strands linked together in a DOUBLE HELIX structure\. The structures which contain DNA are called…
+* chromosomes
+
+#### How do ANIMALS obtain their food?
+* Heterotrophically \- they eat or absorb nutrients from their surroundings
+
+#### Which of these quantities is always CONSERVED in a COLLISION \(regardless of whether it is ELASTIC or INELASTIC\)?
+* Momentum
+
+#### A driver's REACTION time can be affected by…
+* alcohol
+
+#### An object of mass 3kg, travelling with a velocity of 5m/s, would have a MOMENTUM of…
+* 15 kgm/s \[MULTIPLY\]
+
+#### FORCES can\.\.\.
+* \[ALL of these\]
+
+#### Which of these shows the correct equation concerning MOMENTUM?
+* Momentum = mass x velocity
+
+#### A car is initially travelling at 30mph\. How does the car's STOPPING DISTANCE change if its speed is increased to 50mph?
+* The THINKING and BRAKING distances both increase, but the BRAKING distance increases by a greater amount
+
+#### The total STOPPING DISTANCE for a vehicle doing an emergency stop will be DECREASED if…
+* the vehicle is travelling at a LOWER SPEED
+
+#### Radioactive waste produces ionising radiation\. Which of these is NOT a possible effect of increased exposure to ionising radiation?
+* Super\-powers
+
+#### Electrons change \-\-\-\(1\)\-\-\- when there is ABSORPTION or EMISSION of \-\-\-\(2\)\-\-\-\.
+* 1: orbit; 2: electromagnetic radiation
+
+#### Which type of RADIATION is the LEAST PENETRATING?
+* Alpha
+
+#### Which type of radiation has the GREATEST PENETRATION?
+* Gamma
+
+#### In RADIOACTIVE decay, atomic nuclei \-\-\-\(1\)\-\-\- radiation to become \-\-\-\(2\)\-\-\- STABLE\.
+* 1: emit; 2: more
+
+#### Some NUCLEI are UNSTABLE and may spontaneously emit…
+* \[ANY of these\]
+
+#### The combination of MATERNAL and PATERNAL ALLELES means that offspring are…
+* similar to BOTH PARENTS
+
+#### Here are some statements about GENETICS, which may \(or may not\) have some fairly tricky inaccuracies\. Click on the TRUE statement\.
+* \[ALL of these\]
+
+#### Which component of a cell has a DOUBLE HELIX structure?
+* DNA
+
+#### The unit used to measure the SPRING CONSTANT is\.\.\.
+* newtons per metre \(N/m\)
+
+#### If an object is pushed to the RIGHT by a force of 7N and pushed to the LEFT by a force of 7N, what is the resultant force on the object?
+* 7 − 7 = 0N \(NO resultant force\)
+
+#### The THERMAL CAPACITY of an object is the HEAT energy required to…
+* change its temperature by 1ºC
+
+#### If the SPECIFIC LATENT HEAT \(L\) of a substance is 10J/kg and its MASS \(m\) is 20kg, what is the ENERGY \(E\) required for a CHANGE of STATE? \[CHECK the UNITS\]
+* E = m x L = 20 x 10 = 200J
+
+#### When HEAT ENERGY is transferred to a system, the INCREASE in the system's TEMPERATURE depends on the…
+* \[BOTH of these\]
+
+#### The term "SPECIFIC LATENT HEAT" refers to the amount of ENERGY per kg that is needed to CHANGE a material's STATE \-\-\-\(1\)\-\-\- changing its TEMPERATURE\. It is a CONSTANT that is \-\-\-\(2\)\-\-\-\.
+* 1: without; 2; SPECIFIC to EACH substance
+
+#### In SOLIDS, the particles are…
+* CLOSELY packed
+
+#### The equation governing SPECIFIC HEAT CAPACITY is given as E = mcθ\. What does the m represent?
+* Mass
+
+#### The term 'DENSITY' tells us…
+* the MASS of a material per unit VOLUME
+
+#### In LIQUIDS, the particles are…
+* LOOSELY packed
+
+#### On a HEATING and COOLING graph, which quantity is measured on the y\-axis?
+* \[EITHER of these\]
+
+#### Changes of state are always PHYSICAL changes, as the material…
+* RECOVERS its original properties if the changes are reversed
+
+#### An example of a CONTACT force is…
+* friction
+
+#### Each GENE within a chromosome\.\.\.
+* \[BOTH of these\]
+
+#### GAMETES, produced during MEIOSIS, are produced in\.\.\.
+* reproductive organs
+
+#### When a person has a baby, what is the percentage chance that they will have a girl?
+* 50%
+
+#### Which of these does NOT need to be chemically separated after mining?
+* Gold
+
+#### The pH scale is logarithmic\. This means that going from pH 3 to pH 2 has the effect of \-\-\-\(1\)\-\-\- the concentration of H⁺ ions by a factor of \-\-\-\(2\)\-\-\-\.
+* 1: increasing; 2: 10
+
+#### Which of the following can be found in the Earth in its NATIVE FORM?
+* Gold
+
+#### A STRONG ACID could have a pH of…
+* 1
+
+#### Which of these is NOT a STRONG acid?
+* Ethanoic acid
+
+#### Which of these will extend the STOPPING DISTANCE of a car?
+* The TYRES are worn out
+
+#### A radioactive material can cause CONTAMINATION and IRRADIATION\. When a material becomes \-\-\-\(1\)\-\-\- it is a \-\-\-\(2\)\-\-\- to living organisms\.
+* 1: contaminated; 2: danger
+
+#### Some radioactive materials emit radiation all the time\. What kind of radiation do they emit?
+* Gamma rays
+
+#### Which of these is drawn as two CIRCULAR points with a DIAGONAL line connected to only ONE of them?
+* An OPEN switch
+
+#### How does INCREASING the number of components in a SERIES circuit change the CURRENT drawn from the cell?
+* The total RESISTANCE increases, so the CURRENT is REDUCED \(I = V / R\)
+
+#### When comparing a 2kW KETTLE to a 1200W DRILL, we know that \-\-\-\(1\)\-\-\- energy is transferred by the \-\-\-\(2\)\-\-\- because it has a \-\-\-\(3\)\-\-\- output\.
+* 1: more; 2: kettle; 3: higher
+
+#### On a CURRENT\-POTENTIAL DIFFERENCE \(I\-V\) graph, an OHMIC CONDUCTOR \(at constant temperature\) is represented by\.\.\.
+* a STRAIGHT line with a POSITIVE gradient
+
+#### The CURRENT running through a \-\-\-\(1\)\-\-\- circuit is the SAME at any point when a \-\-\-\(2\)\-\-\- is applied\.
+* 1: series; 2: potential difference
+
+#### The \-\-\-\(1\)\-\-\- through any circuit device EQUALS the CURRENT through it MULTIPLIED by the \-\-\-\(2\)\-\-\- across it\.
+* 1: power; 2: potential difference
+
+#### Which of these is drawn as a circle containing the letter A?
+* An ammeter
+
+#### Which of these is drawn as two parallel vertical lines, one thick/short, one thin/long?
+* A cell
+
+#### The symbol for the unit of MOLES is…
+* mol
+
+#### MEASUREMENTS are often \-\-\-\(1\)\-\-\- to create a range set, from which the \-\-\-\(2\)\-\-\- is calculated to create a RELIABLE data value\.
+* 1: repeated several times; 2: mean
+
+#### Which of the following equations is BALANCED?
+* 
+
+#### Concentrations of solutions can be measured in…
+* g/dm³
+
+#### The limiting reactant is \-\-\-\(1\)\-\-\- and is \-\-\-\(2\)\-\-\- at the end of the reaction\.
+* 1: not in excess; 2: all used up
+
+#### Metal X reacts with water and dilute acids, whereas metal Y reacts only with dilute acids\. Metal X…
+* is MORE REACTIVE than metal Y
+
+#### More REACTIVE metals, such as aluminium, are EXTRACTED from their ORES using…
+* electrolysis
+
+#### What colour will UNIVERSAL INDICATOR be in lemon juice?
+* Orange\-Red
+
+#### The CURRENT in a complete SERIES circuit…
+* is always the SAME
+
+#### Which of these is drawn as a triangle next to a thick line with arrows pointing away?
+* An LED
+
+#### The main function of the circulatory system is to transport blood and nutrients to every cell in the body\. Components of this system include…
+* the heart
+
+#### Where is HAEMOGLOBIN found?
+* RED blood cells
+
+#### An UNBALANCED diet can result in…
+* malnourishment
+
+#### The MAIN role of BILE is to…
+* emulsify fat to INCREASE the SURFACE AREA for lipase
+
+#### A blood pressure measurement consists of two numbers\. At what point in the heart cycle is the HIGHER measurement?
+* During heart CONTRACTION
+
+#### What is the risk to a baby if the mother SMOKES during pregnancy?
+* \[BOTH of these\]
+
+#### An ELECTRICAL DEVICE used to CORRECT any IRREGULARITIES in heart rate is known as…
+* an ARTIFICIAL PACEMAKER
+
+#### We define GOOD HEALTH as…
+* the state of PHYSICAL, MENTAL and SOCIAL well being
+
+#### How are RED BLOOD CELLS particularly adapted to their function? \[CAREFUL\! Some of these answers \*may\* have been made deliberately misleading\!\]
+* The cell contains HAEMOGLOBIN to bind with OXYGEN
+
+#### What diffuses from CAPILLARIES into TISSUE FLUID?
+* \[BOTH of these\]
+
+#### Which of the following is a considered TREATMENT for HEART disease?
+* \[ALL of these\]
+
+#### Here are some statements about GENETICS, which might have some fairly tricky inaccuracies\. Click on the TRUE statement\.
+* Many of an organism's CHARACTERISTICS are determined by its GENES
+
+#### Which of these is a DOMAIN in the WOESE classification system?
+* Archaea
+
+#### Which of the following is an example of a PATHOGEN?
+* \[BOTH of these\]
+
+#### Skin is the first line of defence from infection, however if a PATHOGEN enters the body it will be attacked by…
+* white blood cells
+
+#### ROSE BLACK spot is a fungal disease that occurs in leaves\. It is either \-\-\-\(1\)\-\-\- or \-\-\-\(2\)\-\-\-\.
+* 1: purple; 2: black
+
+#### Which of the following is in the structure of a VIRUS?
+* \[ALL of these\]
+
+#### CHOLERA is a bacterial disease caused by consuming CONTAMINATED WATER, which of these are SYMPTOMS of the disease?
+* \[ALL of these\]
+
+#### Which of the following is a PAINKILLER?
+* Paracetamol
+
+#### Which of the following affects the rate of transpiration?
+* \[ALL of these\]
+
+#### In HUMANS, the lining of the small intestine is…
+* a tissue
+
+#### Diamond has a…
+* giant covalent structure
+
+#### Which pH value would best be described as NEUTRAL?
+* 7
+
+#### Which of these are ADVANTAGES of using WATER POWER \(such as waves, tides, hydroelectricity\)?
+* \[BOTH of these\]
+
+#### How would you calculate the WORK done by a resultant FORCE?
+* Work done \(W\) = force \(f\) x distance \(d\)
+
+#### Which of these are TRUE ADVANTAGES of using wind power?
+* It is RENEWABLE
+
+#### Scientists have highlighted many negative ENVIRONMENTAL issues caused by our use of NON\-RENEWABLE energy resources for energy\. We have not yet solved these problems because of\.\.\.
+* \[BOTH of these\]
+
+#### Which of these is an ADVANTAGE of using geothermal power?
+* It is RENEWABLE
+
+#### Which of these are DISADVANTAGES of using fossil fuels?
+* \[ALL of these\]
+
+#### Which pH value would best be described as STRONGLY ALKALINE?
+* 14
+
+#### Metals react with OXYGEN to produce…
+* metal oxides
+
+#### The fact that many vertebrates have a PENTADACTYL LIMB structure means…
+* they are likely to have a common evolutionary ancestor
+
+#### HEART valves may become faulty and be replaced by…
+* \[EITHER of these\]
+
+#### MUTATION of bacteria can lead to new bacteria which are…
+* RESISTANT to antibiotics
+
+#### In flowering plants, most of the water and mineral ions are absorbed via the…
+* roots
+
+#### It is DIFFICULT to remove the CONTAMINATING source of radiation from an object or material\. This means it…
+* will CONTINUE to emit radiation until ALL of the radioactive NUCLEI have decayed
+
+#### The unit used for the measurement of RADIOACTIVITY \(i\.e\. rate of DECAY\) is the…
+* Becquerel \(Bq\)
+
+#### Radioactive waste produces ionising radiation\. Which of these IS a possible EFFECT of increased exposure to ionising radiation?
+* Cancer
+
+#### In NUCLEAR equations, the symbol for a GAMMA ray is…
+* 
+
+#### Why is OXYGEN a gas at room temperature?
+* It has WEAK intermolecular bonds
+
+#### ALLOYS present an ADVANTAGE over PURE metals by being…
+* stronger, because they have a LESS REGULAR crystalline structure
+
+#### What evidence do we have for EVOLUTION?
+* \[BOTH of these\]
+
+#### Diffusion is the process by which…
+* \[ALL of these\]
+
+#### When cells DIVIDE for the purpose of GROWTH, this process is called…
+* mitosis
+
+#### The process of DIFFUSION requires…
+* a concentration gradient
+
+#### If a POTATO is placed in DISTILLED WATER, it will \-\-\-\(1\)\-\-\- water by \-\-\-\(2\)\-\-\-\.
+* 1: gain; 2: osmosis
+
+#### Which of the following is a component of a PROKARYOTIC cell?
+* \[ALL of these\]
+
+#### The energy produced by RESPIRATION can be used in living organisms for a number of tasks including…
+* movement, synthesis of large molecules and active transport
+
+#### Leaves are adapted to have a LARGER SURFACE AREA with…
+* \[BOTH of these\]
+
+#### What is the charge formed on CALCIUM ions \(group II\)?
+* 2\+
 
