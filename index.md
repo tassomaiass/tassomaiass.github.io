@@ -11,3 +11,6 @@ being recorded. The website (which is availible at tassomaiass.github.io)
 is being updated every time I run the script to convert the DB to Markdown
 
 Tassomai? Tasso mai fucking ass
+
+
+[Answers available here](answers)
