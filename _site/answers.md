@@ -34,12 +34,14 @@ in which it is almost most definitely one of the other options.
 
 #### BIOFUELS are often suggested as an alternative to FOSSIL FUELS for car engines\. Which of these shows a possible TRUE ADVANTAGE of biofuels?
 * BIOFUELS can be made in countries without FOSSIL FUEL wealth, thus bringing ECONOMIC opportunities to poorer countries
+* BIOFUEL production provides INCOME for FARMERS and creates JOBS
 
 #### A building could be considered to be ENERGY EFFICIENT if…
 * it LOSES very little heat to the atmosphere
 
 #### Which of these statements about TRANSITION ELEMENTS is TRUE?
 * \[NONE of these are true\]
+* Many of them form IONS with DIFFERENT CHARGES
 
 #### How do almost all TRANSITION ELEMENTS compare to GROUP 1 elements?
 * \[ALL of these\]
@@ -1097,6 +1099,7 @@ in which it is almost most definitely one of the other options.
 
 #### Objects can interact at a distance WITHOUT contact through…
 * gravitational forces
+* \[EITHER of these\]
 
 #### A car's BRAKING DISTANCE is altered if…
 * the ROAD is wet or icy
@@ -1211,6 +1214,7 @@ in which it is almost most definitely one of the other options.
 
 #### Here are some statements about GENETICS, which may \(or may not\) have some fairly tricky inaccuracies\. Click on the TRUE statement\.
 * \[ALL of these\]
+* Cells that contain PAIRS of corresponding chromosomes are known as DIPLOID cells
 
 #### Which component of a cell has a DOUBLE HELIX structure?
 * DNA
@@ -1229,6 +1233,7 @@ in which it is almost most definitely one of the other options.
 
 #### When HEAT ENERGY is transferred to a system, the INCREASE in the system's TEMPERATURE depends on the…
 * \[BOTH of these\]
+* \[ALL of these\]
 
 #### The term "SPECIFIC LATENT HEAT" refers to the amount of ENERGY per kg that is needed to CHANGE a material's STATE \-\-\-\(1\)\-\-\- changing its TEMPERATURE\. It is a CONSTANT that is \-\-\-\(2\)\-\-\-\.
 * 1: without; 2; SPECIFIC to EACH substance
@@ -1253,6 +1258,7 @@ in which it is almost most definitely one of the other options.
 
 #### An example of a CONTACT force is…
 * friction
+* air resistance
 
 #### Each GENE within a chromosome\.\.\.
 * \[BOTH of these\]
@@ -1490,4 +1496,178 @@ in which it is almost most definitely one of the other options.
 
 #### What is the charge formed on CALCIUM ions \(group II\)?
 * 2\+
+
+#### The digestion of PROTEINS from the diet results in EXCESS…
+* amino acids which need to be excreted SAFELY
+
+#### If a red blood cell is placed in water, water \-\-\-\(1\)\-\-\- the cell by osmosis, and the cell will eventually \-\-\-\(2\)\-\-\-\.
+* 1: enters; 2: burst
+
+#### If you need to complete a journey of a SET DISTANCE, then INCREASING YOUR SPEED will…
+* DECREASE the TIME taken to complete the journey
+
+#### Which of these formulae calculates ELASTIC POTENTIAL energy \(E\)?
+* E = ½ke² \[where e = extension and k = spring constant\]
+
+#### What is the CEREBRAL CORTEX most associated with?
+* Intelligence, memory, language and consciousness
+
+#### Most metals in the earth are found \-\-\-\(1\)\-\-\- which \-\-\-\(2\)\-\-\- further chemical reaction to extract them\.
+* 1: as COMPOUNDS; 2: require
+
+#### When ALKALINE COMPOUNDS dissolve in WATER they produce…
+* aqueous hydroxide ions \(OH⁻\) \[OH minus\]
+
+#### Which features of an arrow represent different qualities of a VECTOR quantity?
+* \[BOTH of these\]
+
+#### A parachutist's AIR RESISTANCE \(force upwards\) would be LESS than their WEIGHT \(force downwards\)…
+* moments after FALLING out of the aeroplane
+
+#### Which force applied at 5cm will produce a turning moment of 20 Ncm?
+* 4 N
+
+#### ETHANOIC acid has the molecular formula…
+* CH₃COOH
+
+#### Which of these polymers is NOT important to LIFE?
+* poly\(ethylene\)
+
+#### What is the chemical formula of CHLORINE GAS?
+* 
+
+#### Which of these is the chemical symbol for oxygen?
+* O
+
+#### The \-\-\-\(1\)\-\-\- of a gas produces a net force \-\-\-\(2\)\-\-\- to any surface\.
+* 1: pressure; 2: perpendicular
+
+#### On a HEATING and COOLING graph, what does a DOWNWARD gradient represent?
+* A DECREASE of temperature over time
+
+#### The \-\-\-\(1\)\-\-\- of a gas is related to the average of the \-\-\-\(2\)\-\-\- energy of the gas molecules\.
+* 1: temperature; 2: kinetic
+
+#### The UNIT used for the measurement of DENSITY is…
+* kg/m³
+
+#### When a CHANGE of STATE occurs, the energy supplied changes the energy \-\-\-\(1\)\-\-\- \(internal energy\) \-\-\-\(2\)\-\-\- the TEMPERATURE\.
+* 1: stored; 2: but not
+
+#### How do we know that the specific heat capacity of water is 4\.2J/gºC?
+* We can measure the rise in temperature of a KNOWN MASS of water from a KNOWN AMOUNT of HEAT energy, then calculate: energy / \(mass x temp rise\)
+
+#### In the 'energy required for a change of state' formula, E = mL, what do the m and L stand for? \[Check the units\]
+* m = mass \(kg\), L = specific latent heat \(J/kg\)
+
+#### The LOWER the pressure of a gas in a container, held at CONSTANT volume, the LESS likely it is for the particles to collide with each other\. Therefore, the temperature of the gas…
+* decreases
+
+#### The equation governing SPECIFIC HEAT CAPACITY is given as E = mcθ\. What does the E represent?
+* THERMAL energy
+
+#### What stays the SAME during the time in which substances are undergoing a CHANGE OF STATE?
+* The MASS of the substance
+
+#### IONIC compounds have certain properties which allow them to form…
+* \[ALL of these\]
+
+#### If the DOT & CROSS diagram of a compound uses SQUARE brackets with CHARGES outside of them, then it refers to…
+* an IONIC substance
+
+#### Which of the following statements regarding the LIMITATIONS of using the SIMPLE MODEL to represent STATES of matter is TRUE?
+* All the particles are represented as SPHERES
+
+#### Which of these best describes the term REFLECTION?
+* The re\-emission of light at a surface, where the angle of emergence is equal to the angle of incidence
+
+#### WAVES obey the LAW of REFLECTION, which states that…
+* the angle of INCIDENCE = the angle of REFLECTION
+
+#### ULTRASOUND technology in medicine allows us to…
+* \[BOTH of these\]
+
+#### LIPASE is an ENZYME that converts…
+* fats to fatty acids & glycerol
+
+#### When LIGHT INTENSITY increases, the RATE of TRANSPIRATION increases\. This is because the STOMATA \-\-\-\(1\)\-\-\-, and thus more \-\-\-\(2\)\-\-\- can diffuse in for PHOTOSYNTHESIS\.
+* 1: open up; 2: carbon dioxide
+
+#### As height INCREASES, there is always \-\-\-\(1\)\-\-\- air above a surface than there is at a LOWER height\. Therefore, ATMOSPHERIC PRESSURE \-\-\-\(2\)\-\-\- with an INCREASING height\.
+* 1: less; 2: decreases
+
+#### MOMENTUM is the property of a MOVING object which means that it will…
+* continue to move with constant velocity unless a force acts upon it
+
+#### When comparing a 2 kW WASHING MACHINE to a 100W LIGHT BULB, we know that there is a \-\-\-\(1\)\-\-\- change in the energy used by the WASHING MACHINE because it transfers \-\-\-\(2\)\-\-\- energy per second\.
+* 1: greater; 2: more
+
+#### Which gases move by diffusion into and out of plant LEAVES?
+* Carbon dioxide and oxygen
+
+#### As the temperature \-\-\-\(1\)\-\-\-, the rate of diffusion \-\-\-\(2\)\-\-\-\.
+* 1: increases; 2: increases
+
+#### \[Fill in the blank\]: An INCREASED exposure to RADIATION would \-\-\- the RISK of sickness or tumours\.
+* increase
+
+#### In GASES, the particles are…
+* spread FAR APART
+
+#### Soluble salts can be made from the reaction of \-\-\-\(1\)\-\-\- with either soluble or insoluble \-\-\-\(2\)\-\-\- such as hydroxides, carbonates or metal oxides\.
+* 1: acids; 2: bases
+
+#### A STRONG acid will be \-\-\-\(1\)\-\-\- in \-\-\-\(2\)\-\-\-\.
+* 1: completely IONISED; 2: water
+
+#### BROMINE has 2 ISOTOPES of differing mass in specified proportions \[⁸¹Br \- 50%, ⁷⁹Br \- 50%\]\. Which of these demonstrates how we calculate its relative atomic mass \(Ar\) in g/mol?
+* \[\(50 x 81\) \+ \(50 x 79\)\] ÷ 100 = 80
+
+#### We know that the mass of the atom is concentrated in the CENTRE \(the NUCLEUS\)\. This was proven by experiments looking at…
+* ALPHA particle scattering
+
+#### CALCIUM has 3 ISOTOPES of differing mass and in different proportions \[⁴⁰Ca \- 97%, ⁴²Ca \- 1%, ⁴⁴Ca \- 2%\]\. Which of these demonstrates how we calculate its relative atomic mass \(Ar\) in g/mol?
+* \[\(97 x 40\) \+ \(1 x 42\) \+ \(2 x 44\)\] ÷ 100 = 40\.1
+
+#### The ATOMIC NUMBER of SILICON is 14\. Which one of the following shows the ELECTRON STRUCTURE of one of its ATOMS?
+* 2,8,4
+
+#### The ATOMIC NUMBER of PHOSPHORUS is 15\. Which of these shows the ELECTRON STRUCTURE of one of its ATOMS?
+* 2,8,5
+
+#### If POTASSIUM \(period 4\) is MORE reactive than SODIUM \(period 3\), then we can expect LITHIUM \(period 2\) to be…
+* LESS reactive than both
+
+#### The ATOMIC NUMBER of MAGNESIUM is 12\. Which of these shows the ELECTRON STRUCTURE of one of its ATOMS?
+* 2,8,2
+
+#### A displacement reaction \-\-\-\(1\)\-\-\- take place between SODIUM FLUORIDE \(NaF\) and CHLORINE \(Cl₂\) because \-\-\-\(2\)\-\-\-\.
+* 1: will not; 2: chlorine is LESS reactive than fluorine
+
+#### If an element is INERT, then it is…
+* unreactive
+
+#### The ATOMIC NUMBER of an element tells you…
+* \[ALL of these\]
+
+#### The basic structure of an atom is a POSITIVELY charged nucleus composed of PROTONS and \-\-\-\(1\)\-\-\-, which is surrounded by \-\-\-\(2\)\-\-\- charged ELECTRONS\.
+* 1: neutrons; 2: negatively
+
+#### How far will a GAMMA ray travel through AIR?
+* Up to several 100 m
+
+#### Ordinary human body cells contain 23 pairs of chromosomes\. How many of these pairs determine sex?
+* 1 pair
+
+#### POLYGENIC inheritance is common and means that…
+* the OBSERVABLE characteristic of an organism is determined by MULTIPLE interacting genes
+
+#### A CARRIER of a recessive disease will not be affected by the disease, but may have AFFECTED OFFSPRING if…
+* \[EITHER of these\]
+
+#### The specific pH range at which an ENZYME works best, is termed the…
+* optimum pH
+
+#### An object of mass 6kg, travelling with a velocity of 5m/s, would have a MOMENTUM of…
+* 
 
