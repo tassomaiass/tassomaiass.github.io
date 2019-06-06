@@ -28,6 +28,7 @@ in which it is almost most definitely one of the other options.
 
 #### An example of a RENEWABLE energy resource is…
 * wind energy
+* hydroelectricity
 
 #### When a SYSTEM CHANGES, the way energy is STORED within that system also changes\. When an object is projected UPWARDS or UP a slope, \-\-\-\(1\)\-\-\- energy is converted into \-\-\-\(2\)\-\-\- energy\.
 * 1: kinetic; 2: gravitational potential
@@ -702,6 +703,7 @@ in which it is almost most definitely one of the other options.
 
 #### BALL and STICK models are used to represent IONIC compounds\. Which of the following statements are TRUE?
 * They DON'T show the nature of MOVEMENT of ions
+* \[ALL of these\]
 
 #### If the MELTING POINT of methane \(CH₄\) is \-182°C and BOILING POINT is \-164°C, what STATE is it in at room temperature?
 * Gas
@@ -1670,4 +1672,145 @@ in which it is almost most definitely one of the other options.
 
 #### An object of mass 6kg, travelling with a velocity of 5m/s, would have a MOMENTUM of…
 * 
+
+#### \[TRUE or FALSE?\]: In an EXOTHERMIC reaction, the BOND energy of the REACTANTS is GREATER than the PRODUCTS\.
+* \[FALSE\]: In an EXOTHERMIC reaction, more energy is released in FORMING the PRODUCTS' bonds than is required to BREAK the REACTANTS' bonds
+
+#### In an EXOTHERMIC reaction, the energy \-\-\-\(1\)\-\-\- when FORMING new bonds is \-\-\-\(2\)\-\-\- than the energy required to BREAK bonds\.
+* 1: released; 2: greater
+
+#### Which of these everyday items utilises an ENDOTHERMIC reaction?
+* Instant ice packs
+
+#### Following an EXOTHERMIC REACTION will the products have a higher or lower energy level than the reactants?
+* LOWER \- energy has been released
+
+#### In an EXOTHERMIC reaction, the TEMPERATURE of the SURROUNDINGS…
+* increases
+
+#### EXOTHERMIC reactions are where…
+* ENERGY is GIVEN OUT to the surrounding environment
+
+#### The OVERALL ENERGY CHANGE between reactants and products can be seen with…
+* a REACTION PROFILE
+
+#### Thermal decompositions and the reaction of citric acid with sodium hydrogencarbonate are examples of \-\-\-\(1\)\-\-\- reactions, because HEAT ENERGY is \-\-\-\(2\)\-\-\- the surroundings\.
+* 1: endothermic; 2: taken from
+
+#### In an ENDOTHERMIC reaction, the energy \-\-\-\(1\)\-\-\- when BREAKING bonds is \-\-\-\(2\)\-\-\- than the energy released when FORMING new bonds\.
+* 1: required; 2: greater
+
+#### The ACTIVATION ENERGY, as well as the amount of energy associated with the REACTANTS and PRODUCTS, can be represented using…
+* a REACTION PROFILE
+
+#### The REACTION PROFILE of an EXOTHERMIC reaction will show the \-\-\-\(1\)\-\-\- at a LOWER level than the \-\-\-\(2\)\-\-\-\.
+* 1: products; 2: reactants
+
+#### CANCER is a \-\-\-\(1\)\-\-\- disease, caused by changes in genetic material known as \-\-\-\(2\)\-\-\-\.
+* 1: noncommunicable; 2: mutations
+
+#### Which of the following are EXAMPLES of plant organs?
+* \[ALL of these\]
+
+#### In order to save on wasted electricity through the National Grid, TRANSFORMERS are used to…
+* STEP UP VOLTAGE for transfer, and STEP DOWN VOLTAGE for domestic use
+
+#### The COMBINED resistance of two resistors in SERIES is…
+* the SUM of their individual resistances
+
+#### \[TRUE or FALSE?\]: Variation in species is the result of GENETIC factors ALONE\.
+* \[FALSE\]: Environmental factors also play a role
+
+#### The ATOMIC NUMBER of ARGON is 18\. Which of these shows the ELECTRON STRUCTURE of one of its ATOMS?
+* 2,8,8
+
+#### Which element has the symbol Fe?
+* Iron
+
+#### What is the SYMBOL for the RELATIVE ATOMIC MASS of an atom?
+* Ar
+
+#### The ATOMIC NUMBER of NITROGEN is 7\. Which of these shows the ELECTRON STRUCTURE of one of its ATOMS?
+* 2,5
+
+#### If LIGHT intensity is a LIMITING FACTOR, then when you DECREASE the light intensity, the RATE of photosynthesis will be…
+* lower
+
+#### In PLANTS, the GLUCOSE produced from PHOTOSYNTHESIS can be…
+* used for RESPIRATION
+
+#### GLUCOSE can be stored for later use in LIVER and MUSCLE cells by being converted into\.\.\.
+* glycogen
+
+#### Which of these CANNOT be a LIMITING FACTOR in PHOTOSYNTHESIS?
+* Oxygen concentration
+
+#### What is the correct SYMBOL equation for PHOTOSYNTHESIS?
+* 
+
+#### The rate of photosynthesis for a crop can be \-\-\-\(1\)\-\-\- to MAXIMISE profit by using \-\-\-\(2\)\-\-\-\.
+* 1: increased; 2: greenhouses
+
+#### During EXERCISE the muscles need more OXYGEN carried to them by the BLOOD\. Therefore…
+* there is an INCREASE in the heart rate, breathing rate AND depth of breathing
+
+#### What effect will a DECREASE in UV light have on the rate of photosynthesis?
+* It would be LOWER
+
+#### What effect will a DECREASE in temperature have on the rate of photosynthesis?
+* It would be LOWER
+
+#### In which ORGANELLE does AEROBIC respiration take place?
+* Mitochondria
+
+#### In farming, it is important to control the CONDITIONS that affect photosynthetic LIMITING factors in order to…
+* MAXIMISE photosynthesis whilst MAINTAINING a profit
+
+#### An example of a NON\-RENEWABLE energy resource used on Earth is…
+* \[BOTH of these\]
+
+#### The CENTRAL nervous system consists of…
+* \[BOTH of these\]
+
+#### Which of these best describes the term "ADRENAL GLAND"?
+* A gland that is important in the production of ADRENALINE, which drives stress responses and the "fight or flight" response
+
+#### In a simple reflex action, when impulses reach the central nervous system, a chemical is released from the \-\-\-\(1\)\-\-\- neuron, which causes an impulse to be sent along a \-\-\-\(2\)\-\-\- neuron before being transferred to a motor neuron\.
+* 1: sensory; 2: relay
+
+#### Which of these fertility treatments causes the fertilisation of EGGS outside of the body?
+* IVF
+
+#### In ANAEROBIC respiration, the term OXYGEN DEBT refers to the amount of EXTRA oxygen needed \-\-\-\(1\)\-\-\- exercise to convert \-\-\-\(2\)\-\-\- into carbon dioxide and water\.
+* 1: after; 2: lactic acid
+
+#### "FIGHT or FLIGHT" refers to the response of the body to which hormone?
+* Adrenaline
+
+#### What is meant by BARRIER contraception?
+* Methods of contraception that prevent sperm from reaching an egg
+
+#### Which method would be most suitable in separating SAND from WATER?
+* Filtration
+
+#### The equation \[ 8 3 Li → 8 x Be \+ y −1 e \] is an example of BETA decay, what are the VALUES of X and Y?
+* 
+
+#### \[Fill in the blank\]: The equation to calculate the DECLINE in radioactive emission of a substance after X number of half\-lives is given by: Current rate = Initial rate / …
+* 
+
+#### Which of these best describes the term 'ENDOCRINE SYSTEM'?
+* The system which is involved in REGULATING the body's INTERNAL ENVIRONMENT through the production and secretion of HORMONES
+
+#### Hormones are produced in…
+* endocrine glands
+
+#### Which type of cell, as a result of being UNSPECIALISED, offers the chance to treat some illnesses?
+* Stem cells
+
+#### Which of the following are adaptations that make LEAVES an ideal exchange surface?
+* They have STOMATA that allow the DIFFUSION of gases into and out of the leaf
+
+#### New cells may be produced by EMBRYONIC STEM CELLS or ADULT STEM cells in order to…
+* REPLACE damaged tissue
 
